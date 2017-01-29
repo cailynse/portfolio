@@ -1,0 +1,115 @@
+#banner {
+  margin:2px;
+  padding:2px;
+  background:#00cccc; 
+}
+
+#about-btn{
+  margin:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+  color:#000
+}
+
+#contact-btn{
+  margin:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+}
+
+#projects-btn{
+  margin:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+}
+
+#main-body{
+  margin:40px;
+  padding:20px;
+  background:#b2beb5;
+  padding-top: 120px; 
+  padding-left: 20px;
+}
+
+h1{
+  font-size:50px;
+  font-family:Coming Soon;
+  text-align:center;
+  margin:30px;
+}
+
+.thick-blue-border {
+   border-color:#00cccc;
+   border-width:10px;
+   border-style:solid;
+   border-radius:50%;
+}
+
+#about{
+  margin:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+}
+
+#projects{
+  margin:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+}
+
+#portfolio-pictures{
+  margin:20px;
+  padding:20px;  
+}
+
+.thin-black-border {
+   border-color:#000;
+   border-width:5px;
+   border-style:solid;
+}
+
+#contact{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+  font-family:Coming Soon;
+  text-align:center;
+  background:#efefef;
+}
+
+form{
+  text-align:center;
+  margin:20px;
+  padding:20px;
+}
+   
+.social {
+    margin: 0;
+    padding: 0;
+}
+
+.social ul {
+    margin: 0;
+    padding: 5px;
+}
+
+.social ul li {
+    margin: 5px;
+    list-style: none outside none;
+    display: inline-block;
+}
+
+#footer{
+  padding:1px;
+  background:#00cccc;
+}
